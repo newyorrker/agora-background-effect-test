@@ -1,0 +1,22 @@
+{
+  "name": "abt",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^2.6.14",
+    "vue-class-component": "^7.2.3",
+    "vue-property-decorator": "^9.1.2",
+    "agora-extension-virtual-background": "^1.0.0-beta-3",
+    "agora-rtc-sdk-ng": "4.11.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-typescript": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "typescript": "~4.5.5",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
